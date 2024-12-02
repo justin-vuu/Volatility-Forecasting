@@ -1,7 +1,7 @@
 # Volatility-Forecasting
 
-## Overview sửa
-This project is a volatility-forecasting that assists 
+## Overview 
+This project attempts to implement LSTM models in forecasting Realized Volatility in the derivatives market, helping traders in their decision-making. 
 
 ## Contributors
 
@@ -17,9 +17,6 @@ This project is a volatility-forecasting that assists
 ```
 Volatility-Forecasting/
 │
-├── data/               
-│   └── raw_data.csv
-│
 ├── notebooks/           
 │   └── analysis.ipynb
 │
@@ -34,12 +31,8 @@ Volatility-Forecasting/
 ├── requirement.txt     
 └── README.md
 ```
-## Features sửa
-- Personalized movie recommendations
-- User-friendly interface
-- Integration with popular movie databases
-
-## Installation
+#
+# Installation
 1. Clone the repository:
     ```bash
     git clone https://github.com/justin-vuu/Volatility-Forecasting.git
@@ -52,14 +45,6 @@ Volatility-Forecasting/
     ```bash
     pip install -r requirement.txt
     ```
-
-## Usage sửa
-1. Run the application:
-    ```bash
-    streamlit run src/new_web.py
-    ```
-2. Follow the on-screen instructions to get movie recommendations.
-
-
+   
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
